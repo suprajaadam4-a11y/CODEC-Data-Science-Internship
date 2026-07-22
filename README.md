@@ -1,4 +1,4 @@
-# CDEEC Data Science Internship
+# CODEC Data Science Internship
 
 This repository contains my Data Science internship tasks.
 
