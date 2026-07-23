@@ -1,6 +1,6 @@
 # CODEC Artificial intelligence Internship
 
-This repository contains my Data Science internship tasks.
+This repository Artificial intelligence internship tasks.
 
 ## Tasks
 - Task 1: Customer Churn Prediction
