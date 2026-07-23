@@ -1,4 +1,4 @@
-# CODEC Data Science Internship
+# CODEC Artificial intelligence Internship
 
 This repository contains my Data Science internship tasks.
 
